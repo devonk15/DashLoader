@@ -61,6 +61,7 @@ public class HahaManager {
 			// shedaniel
 			"Look at me, I am vibing up here",
 			"Doesn't break REI"
+		
 	};
 
 	public static String getFact() {
