@@ -61,6 +61,7 @@ public final class HahaManager {
 			// shedaniel
 			"Look at me, I am vibing up here",
 			"Doesn't break REI",
+			// devonk15
 			"Come here often?"
 	};
 
